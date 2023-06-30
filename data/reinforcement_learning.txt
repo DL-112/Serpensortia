@@ -1,0 +1,12 @@
+straight => [1, 0, 0]
+turn right => [0, 1, 0]
+turn left => [0, 0, 1]
+
+State
+[
+    danger straight, danger right, danger left,
+
+    direction left, direction right, direction up, direction down,
+
+    food left, food right, food up, food down
+]
