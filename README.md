@@ -6,9 +6,9 @@ Serpensortia is an exhilarating snake game developed by a MIIT student.
 
 # Key Features
 
--Multiple Game Modes: Enjoy the classic Normal Mode, challenge yourself in the invincible God Mode, and witness the power of Reinforcement Learning in the AI Mode.
--Thrilling Gameplay: Navigate the snake, collect food, and avoid walls to achieve the highest score.
--Intuitive Controls: Use arrow keys for seamless control of the snake's movement. Enter and ESC can sometimes be used as shortcuts.
+- Multiple Game Modes: Enjoy the classic Normal Mode, challenge yourself in the invincible God Mode, and witness the power of Reinforcement Learning in the AI Mode.
+- Thrilling Gameplay: Navigate the snake, collect food, and avoid walls to achieve the highest score.
+- Intuitive Controls: Use arrow keys for seamless control of the snake's movement. Enter and ESC can sometimes be used as shortcuts.
 
 # Contributing
 
